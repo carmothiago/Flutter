@@ -1,0 +1,3 @@
+main() {
+  print('fala mais');
+}
